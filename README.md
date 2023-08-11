@@ -1,8 +1,34 @@
-Hi, I am new on here , but I hope I can help some people. This is the first project I've worked on after my switch from programming to graphic design. My goal is to build a basic machine that can complete my tasks in a reasonable amount of time. It doesn 't have to be very powerful (but I want to push the envelope) and not be too complicated . The basic concept is this : When I type a snippet of text , it sends back an output of some kind .
+Hi there 👋
+I'm John Doe
 
-(This blurb was generated with a GPT-2 prompt of "hi, I am". I have no experience with graphic design whatsoever.)
+I'm a full stack developer and open source enthusiast located in San Francisco. I love building things and tinkering with new technologies.
+Skills
 
-<!---
-PhiMarHal/PhiMarHal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Python
+    Javascript
+    React
+    Node.js
+    Django
+    HTML/CSS
+
+Currently Working On
+
+    An e-commerce site built with React and Node
+    Contributing to open source projects on Github
+    Learning Rust
+
+Get In Touch
+
+    Twitter: @john_doe ↗
+    LinkedIn: john-doe ↗
+    Email: john.doe@email.com
+
+Fun Facts
+
+    I have a pet parrot named Rico 🦜
+    On weekends you can find me hiking or kayaking
+    I make my own kombucha
+
+Thanks for stopping by!
+
+(Thanks Claude-2-100k, I hate it.)
